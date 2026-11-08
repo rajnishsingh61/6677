@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ForgeOS</string>
+    <string name="ranked_mode">Ranked Mode</string>
+    <string name="start_session">Start Ranked Session</string>
+    <string name="stop_session">Stop Session</string>
+    <string name="performance_mode">Performance Mode</string>
+    <string name="game_dock">Game Dock</string>
+    <string name="xp_label">XP</string>
+    <string name="rank_label">Rank</string>
+</resources>
